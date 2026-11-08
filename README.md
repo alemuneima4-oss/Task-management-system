@@ -57,10 +57,8 @@ task-management-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/alemuneima4-oss/Task-management-system.git
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Open the Project
 
